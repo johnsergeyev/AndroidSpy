@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Адрес почты[Gmail]</string>
+    <string name="prompt_password">Пароль от почты</string>
+    <string name="action_sign_in_register">Привязать <b>e-mail</b></string>
+    <string name="action_sign_in_unregister">Отвязать <b>e-mail</b></string>
+    <string name="error_invalid_email">Неверная почта</string>
+    <string name="error_field_required">Это поле необходимо заполнить</string>
+    <string name="test_message">Тест почты</string>
+
+</resources>
